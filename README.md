@@ -1,7 +1,7 @@
 Hospital Management System:
 This is a simple management system for hospitals staffs.
 
-Users: Staff
+Users: Staff ||
 Features:
 1.Add, Update or delete patient
 2. Add, Update or delete doctors
